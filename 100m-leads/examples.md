@@ -350,7 +350,7 @@ $2,800 ÷ 3 = **~$933 max CAC**
 | Cold email | $50/lead | 5% | $50 ÷ 0.05 = **$1,000** | Too expensive (above $933 ceiling) |
 | Content + warm outreach | $20/lead | 8% | $20 ÷ 0.08 = **$250** | Healthy (3.5x better than ceiling) |
 
-The cold email channel isn't broken - the math just says it can't profitably acquire this customer at current conversion. Fix options: improve the cold email conversion rate above ~5.4%, reduce cost per lead below ~$47, or increase LTGP (higher price, longer retention, better margin).
+The cold email channel isn't broken - the math just says it can't profitably acquire this customer at current conversion. Fix options: improve the cold email conversion rate above ~5.4%, reduce cost per lead below ~$46, or increase LTGP (higher price, longer retention, better margin).
 
 **Fill-in version**
 

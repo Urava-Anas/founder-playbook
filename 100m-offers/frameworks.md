@@ -124,11 +124,11 @@ For naming the entire offer:
 |--------|---------|----------|
 | **M**agnet | The hook | Rapid, Proven, Ultimate, Exclusive |
 | **A**vatar | Ideal client | Busy Executives, Mid-Market CFOs |
-| **G**oal | Duration/timeline | 6-Week, 90-Day, 12-Month |
-| **I**nternal | Desired outcome | Revenue Growth, Lead Generation |
+| **G**oal | Desired outcome | Revenue Growth, Lead Generation |
+| **I**nterval | Duration/timeline | 6-Week, 90-Day, 12-Month |
 | **C**ontainer | Bundle word | Blueprint, System, Accelerator, Framework |
 
-**Formula:** `[Magnet] [Goal] [Internal Outcome] [Container] for [Avatar]`
+**Formula:** `[Magnet] [Interval] [Goal] [Container] for [Avatar]`
 
 **Examples:**
 - "The 90-Day Revenue Growth Accelerator for Mid-Market SaaS CEOs"

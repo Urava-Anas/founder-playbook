@@ -240,7 +240,9 @@ Simple isn't listed because it's the prerequisite for all of them. If you haven'
 ### The Honest Assessment
 Made to Stick is a **message design toolkit**. It helps you craft individual messages that land. It doesn't help you decide what to say (that's strategy), where to say it (Traction), or how to structure your overall brand narrative (StoryBrand). Think of it as the quality control layer that sits on top of your messaging strategy.
 
-Framework details and sub-frameworks: see [frameworks.md](frameworks.md).
-Case studies organized by principle: see [cases.md](cases.md).
-Templates and message clinic format: see [examples.md](examples.md).
-Cross-skill integration: see [integration.md](integration.md).
+## Supporting Files
+
+- **[frameworks.md](frameworks.md)** - SUCCESs principle deep dives, Message Clinic framework, the Villain Lineup (Curse of Knowledge variants)
+- **[cases.md](cases.md)** - Cases organized by principle: Southwest, Clinton '92, Palm Pilot, Nordstrom, Jane Elliott, Boeing 727, Pam Laffin, Safexpress, Rokia study, Don't Mess with Texas, Jared/Subway, Stephen Denning/World Bank
+- **[examples.md](examples.md)** - SUCCESs audit worksheet, message clinic template, Commander's Intent worksheet, statistic-reframing worksheet, story-spotting interview templates
+- **[integration.md](integration.md)** - Integration and conflicts with StoryBrand, Obviously Awesome, Traction, $100M Offers, Lean Startup, SPIN Selling, Mom Test, Influence, Four Steps

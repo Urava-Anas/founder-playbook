@@ -1,6 +1,6 @@
 ---
 name: influence
-description: Cialdini's seven principles of compliance (reciprocation, commitment-consistency, social proof, liking, authority, scarcity) plus Unity (added 2016) and Pre-Suasion. Use when crafting ethical persuasion (marketing, sales, negotiation), defending against manipulation, or designing systems that need cooperation. Includes replication-crisis caveats and known factual corrections (Bickman parking-meter numbers, Hofling modern replication, Drive Carefully condition disambiguation, Genovese myth).
+description: Cialdini's seven principles of compliance (the classic six — reciprocation, commitment-consistency, social proof, liking, authority, scarcity — plus Unity, added 2016) and Pre-Suasion. Use when crafting ethical persuasion (marketing, sales, negotiation), defending against manipulation, or designing systems that need cooperation. Includes replication-crisis caveats and known factual corrections (Bickman parking-meter numbers, Hofling modern replication, Drive Carefully condition disambiguation, Genovese myth).
 ---
 
 > **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
@@ -171,7 +171,7 @@ This is one of the most important techniques in the book. Generic appeals to a c
 7. **Scarcity without specificity** - "Limited time!" forever = no scarcity
 8. **Liking without similarity** - Generic friendliness < perceived similarity
 9. **Forgetting the click-whirr is automatic** - Don't over-explain; the trigger does the work
-10. **Using these on smart, alert prospects** - These work on shortcuts. Educated buyers know the moves and will reactance against obvious stacking.
+10. **Using these on smart, alert prospects** - These work on shortcuts. Educated buyers know the moves and will feel reactance against obvious stacking.
 
 ## Worked Example: Stacked Principles in Cold Outreach
 

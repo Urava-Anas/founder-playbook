@@ -91,7 +91,7 @@ A founder generates 500 leads/month from paid ads. Conversion to paying customer
 
 **Fix:** Pause the leads work. Use 100m-offers to fix the offer. THEN restart traffic.
 
-This is why the Hormozi sequence is mom-test → 100m-offers → 100m-leads. Generating leads to a bad offer is throwing money away.
+This is why the Hormozi sequence is mom-test → 100m-offers → money-models → 100m-leads. Generating leads to a bad offer is throwing money away.
 
 ## Case Pattern: The Referral Engine
 

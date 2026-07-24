@@ -214,6 +214,21 @@
 
 ---
 
+### Lean Startup → Money Models
+
+| Dimension | Lean Startup | Money Models |
+|---|---|---|
+| **Focus** | Engines of growth (sticky/viral/paid) | Sequencing offers so each customer funds acquiring the next |
+| **Symptom addressed** | Paid engine breaking (rising CPA, falling LTV) | Same symptom, fixed via payback speed rather than more spend |
+
+**Where they complement:**
+- The Paid engine of growth is the most fragile of the three - it breaks the moment competitors bid up CPA or LTV assumptions prove optimistic. Money Models attacks the same failure mode differently: instead of assuming the engine itself is broken, fix payback speed by sequencing offers (attraction, upsell, downsell, continuity) so cash returns in ~30 days.
+- The two frameworks rhyme on method: Lean Startup's "small batches" = Money Models' "perfect one offer at a time" before adding the next; Lean Startup's innovation accounting = Money Models' "raise price until nos outweigh yeses" (pricing as a testable hypothesis, not a fixed input).
+
+**Integration rule:** When the paid engine of growth is faltering, don't just diagnose it as a growth-loop problem (Lean Startup) - check whether payback speed is the actual constraint (Money Models). Sequence offers to fix cash-flow timing before concluding the engine is dead.
+
+---
+
 ## The Master Sequence
 
 ```

@@ -129,8 +129,8 @@ Book a 30-min fit call: [link]
 |-----------|-----------|-----------|-----------|
 | **M**agnet | The Proven | The Ultimate | The Rapid |
 | **A**vatar | Solo Consultants | Tech Startups | Mid-Market CFOs |
-| **G**oal | 6-Week | 12-Month | 90-Day |
-| **I**nternal | Lead Generation | Hiring | Revenue Growth |
+| **G**oal | Lead Generation | Hiring | Revenue Growth |
+| **I**nterval | 6-Week | 12-Month | 90-Day |
 | **C**ontainer | Blueprint | System | Accelerator |
 | **Result** | The Proven 6-Week Lead Generation Blueprint for Solo Consultants | The Ultimate 12-Month Hiring System for Tech Startups | The Rapid 90-Day Revenue Growth Accelerator for Mid-Market CFOs |
 

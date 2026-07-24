@@ -238,4 +238,4 @@ Before designing a new product:
 
 ## Caveat on WTP Research
 
-Stated WTP and revealed WTP differ. Customers predict their own behavior poorly in interviews. Treat WTP findings as a strong prior, not certainty. Validate with paid pilots, pre-orders, live A/B price tests, or money-back guarantees. See [integration.md](integration.md#wtp-research-limitations).
+Stated WTP and revealed WTP differ. Customers predict their own behavior poorly in interviews. Treat WTP findings as a strong prior, not certainty. Validate with paid pilots, pre-orders, live A/B price tests, or money-back guarantees. See [integration.md](integration.md#wtp-research-limitations-critical-caveat).

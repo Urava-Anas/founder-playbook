@@ -246,4 +246,4 @@ Worth asking every few years - even when the answer is "no, this game is worth p
 - **[frameworks.md](frameworks.md)** - Strategy Canvas in depth, ERRC mechanics, Buyer Utility Map (6×6), Price Corridor of the Mass, Pioneer-Migrator-Settler map, BOI Index, Imitation barriers, 4-step Visualizing Strategy
 - **[cases.md](cases.md)** - All cases by Path, with inline decline caveats, plus Bratton/NYPD historical contestation, Elco Plant detail
 - **[examples.md](examples.md)** - Worked ERRC tables (Cirque, Yellow Tail), tagline examples, value curve drawings, Strategic Sequence walkthroughs
-- **[integration.md](integration.md)** - Conflicts/integrations with Mom Test, Crossing the Chasm, Monetizing Innovation, $100M Offers, $100M Leads, SPIN Selling, Obviously Awesome, Influence
+- **[integration.md](integration.md)** - Conflicts/integrations with Mom Test, Crossing the Chasm, Monetizing Innovation, $100M Offers, Money Models, $100M Leads, SPIN Selling, Obviously Awesome, Influence

@@ -123,6 +123,20 @@
 
 ---
 
+### Four Steps → Money Models
+
+**Four Steps sets the spending gate. Money Models supplies the cash-math test for it.**
+
+Four Steps warns "no serious spending in marketing until the company has a proven and repeatable sales roadmap exists" - but gives no tool for how much Customer Creation spend is actually affordable once that gate opens.
+
+**Where they complement:**
+- Money Models' 30-day payback test fills that gap: recover the cost to acquire and serve a customer within ~30 days before scaling spend further.
+- That test is the tactical guard against exactly the premature-scaling death spiral Four Steps describes with Webvan - spend outrunning validated cash return until burn forces a collapse.
+
+**Integration rule:** Once Customer Validation passes and Four Steps clears you to spend on Customer Creation, run Money Models' 30-day payback test before increasing that spend further. The sales roadmap answers "can we sell it?" The payback test answers "can we afford to sell more of it?"
+
+---
+
 ### Four Steps → Obviously Awesome (April Dunford)
 
 **Obviously Awesome is the positioning playbook. Four Steps says positioning must match Market Type.**

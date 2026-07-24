@@ -129,7 +129,7 @@ Hormozi's wording for environmental is "External" - same concept.
 
 Score each component on Value to customer (1-10) and Cost to deliver (1-10). High-value, low-cost components stay in the core offer; mid-value components move to bonuses; low-value or high-cost components get cut. Target 6-10 strong components total.
 
-Full value-cost matrix and scoring: see [frameworks.md](frameworks.md#value-equation).
+Full value-cost matrix and scoring: see [frameworks.md](frameworks.md#step-5-trim--stack-value-cost-matrix).
 
 ## The Stacking Principle
 
@@ -253,4 +253,4 @@ If they don't, the offer needs more work.
 - **[frameworks.md](frameworks.md)** - Detailed step-by-step processes, delivery vehicle dimensions, naming formula (MAGIC), enhancements (guarantees, scarcity, urgency, bonuses)
 - **[cases.md](cases.md)** - Hormozi's gym case study with verification notes, before/after examples
 - **[examples.md](examples.md)** - Bundle naming patterns, one-page offer template, real offer examples
-- **[integration.md](integration.md)** - How offers connect to mom-test (input) and 100m-leads (output); conflicts with monetizing-innovation pricing approaches
+- **[integration.md](integration.md)** - How offers connect to mom-test (input) and 100m-leads (output); conflicts with monetizing-innovation pricing approaches and how the offer feeds money-models (offer sequencing)

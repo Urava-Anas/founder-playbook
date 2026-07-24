@@ -220,4 +220,4 @@ You have a die with unknown sides - one green, the rest red. Roll green and a re
 - **[lead-getters.md](lead-getters.md)** - Referral programs, hiring, agencies, affiliates, the 3Ds training framework
 - **[cases.md](cases.md)** - Roadmap from $0 to $100M (7 levels), case-style examples, decade-in-a-page
 - **[examples.md](examples.md)** - Email templates, ad scripts, content hooks, checklists
-- **[integration.md](integration.md)** - How leads connects to mom-test, 100m-offers, influence; conflicts with crossing-the-chasm channel choice
+- **[integration.md](integration.md)** - How leads connects to mom-test, 100m-offers, influence; conflicts with crossing-the-chasm channel choice; money model sets the affordable CAC

@@ -17,13 +17,13 @@ Is your product targeting enterprise buyers (>$10K deals, multi-stakeholder)?
 ├─ YES → Continue to next question
 └─ NO  → Pure consumer / PLG / marketplace?
         ├─ Pure consumer (TikTok, gaming) → SKIP this skill entirely
-        ├─ PLG SaaS (Slack, Notion, Figma) → Use positioning + whole product concepts only; for adoption strategy, see $100M Leads
-        ├─ Marketplace (Airbnb-like) → Two-sided dynamics don't map to TALC; use Blue Ocean Strategy for market creation
-        └─ AI-native (Cursor, Claude) → Adoption patterns unprecedented; use Four Steps to Epiphany for customer discovery, this skill for enterprise positioning only
+        ├─ PLG SaaS (Slack, Notion, Figma) → Use positioning + whole product concepts only; for adoption strategy, see **$100M Leads**
+        ├─ Marketplace (Airbnb-like) → Two-sided dynamics don't map to TALC; use **Blue Ocean Strategy** for market creation
+        └─ AI-native (Cursor, Claude) → Adoption patterns unprecedented; use **Four Steps to Epiphany** for customer discovery, this skill for enterprise positioning only
 
 Do you have at least 10 paying customers or repeatable early-adopter revenue?
 ├─ YES → Continue
-└─ NO  → You're still in Customer Discovery/Validation. Use four-steps and mom-test first. Come back when you have real traction.
+└─ NO  → You're still in Customer Discovery/Validation. Use **four-steps** and **mom-test** first. Come back when you have real traction.
 
 Are you currently in early market (visionaries buying)?
 ├─ YES → This skill is for you
@@ -244,7 +244,7 @@ We have assembled (key whole product features for your specific application).
 
 If you fail: word-of-mouth can't transmit; marketing scatters; R&D drifts; can't recruit partners; can't get experienced financing.
 
-Examples and the 4 stages of positioning through the lifecycle: see [frameworks.md](frameworks.md#positioning-lifecycle).
+Examples and the 4 stages of positioning through the lifecycle: see [frameworks.md](frameworks.md#positioning-lifecycle---4-stages-through-talc).
 
 ---
 
@@ -381,7 +381,7 @@ The framework's core ideas are durable. Specific tactics, channels, and case stu
 - Direct sales force always preferred for chasm - now often a worse choice than self-serve PLG
 - TALC bell curve assumes single market - modern products cross multiple sub-chasms simultaneously
 
-Full modern-relevance breakdown: see [integration.md](integration.md#modern-relevance).
+Full modern-relevance breakdown: see [integration.md](integration.md#modern-relevance-1991--2026).
 
 ---
 
@@ -445,7 +445,7 @@ The opposite of crossing the chasm isn't "moving fast." It's **focus.**
 ## Supporting Files
 
 - **[frameworks.md](frameworks.md)** - Detailed segment profiles, application vs platform distinction, target-customer characterization (Day in the Life), sub-segmentation, whole-product layers and management (8 tips), positioning lifecycle (4 stages), distribution channels (8), pricing detail
-- **[cases.md](cases.md)** - Documentum (regulatory affairs beachhead), Lotus Notes (Sheldon Laube/Price Waterhouse $10K-seat commitment), Microsoft Exception ("Evel Knievel"), Silicon Graphics (Hollywood post-production), Quicken (paper checks/Tobias), Channelpoint (insurance agents), Wang/Lotus/Macintosh/Silicon Graphics death-by-tornado, Steve Jobs/Xerox PARC
+- **[cases.md](cases.md)** - Documentum (regulatory affairs beachhead), Lotus Notes (Sheldon Laube/Price Waterhouse 10,000-seat commitment), Microsoft Exception ("Evel Knievel"), Silicon Graphics (Hollywood post-production), Quicken (paper checks/Tobias), Channelpoint (insurance agents), Wang/Lotus/Macintosh/Silicon Graphics death-by-tornado, Steve Jobs/Xerox PARC
 - **[examples.md](examples.md)** - Two-sentence positioning template, 9-factor target selection scoring sheet, doughnut diagram, target-customer characterization (5+3 elements), staircase vs hockey stick model
 - **[integration.md](integration.md)** - Beyond the Chasm (Inside the Tornado: bowling alley, tornado, Main Street), Pioneers vs Settlers org transition, Modern Relevance details, conflicts with Mom Test/Monetizing Innovation/$100M Offers/SPIN Selling
 

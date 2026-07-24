@@ -9,6 +9,7 @@
 | **Blue Ocean Strategy** | BOS reframes the GAME. OA positions WITHIN the chosen game. Use BOS first if existing categories are a trap, OA second to communicate |
 | **Monetizing Innovation** | OA's Step 6 (value themes) informs MI's value-based pricing |
 | **$100M Offers** | OA's positioning + Hormozi's offer stacking are complementary - position for the right market, then stack value within that frame |
+| **$100M Money Models** | OA sets the strategic frame (who you win with, why); money-models sequences the offers built inside that frame for cash-flow speed. Position first - a fast payback ladder on a confused category still won't sell. |
 | **$100M Leads** | OA tells you WHAT to say in your ads/content. Leads tells you HOW to drive traffic |
 | **SPIN Selling** | OA's positioning gives the strategic frame; SPIN gives the tactical sales conversation within that frame |
 | **Influence** | Authority + social proof from OA's segment = positioning evidence for Cialdini-style persuasion |

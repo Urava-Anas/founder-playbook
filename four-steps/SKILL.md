@@ -1,6 +1,6 @@
 ---
 name: four-steps
-description: "Applies Steve Blank's Customer Development methodology from The Four Steps to the Epiphany. Use when a startup is searching for customers and a business model before scaling. Covers the four-step process: Customer Discovery (find if anyone wants what you're building), Customer Validation (prove you can sell it repeatably), Customer Creation (drive demand matched to Market Type), and Company Building (transition from learning org to execution org). Triggers include 'we built it but no one's buying', 'should we hire salespeople yet', 'how do we find our first customers', 'we're burning cash and sales aren't scaling', 'are we in a new or existing market', 'when do we scale'. NOT for companies that have already crossed the chasm into mainstream (use Crossing the Chasm instead), not for optimizing an existing sales funnel, not for product development methodology (this is its companion, not replacement)."
+description: "Applies Steve Blank's Customer Development methodology from The Four Steps to the Epiphany. Use when a startup is searching for customers and a business model before scaling. Covers Customer Discovery, Customer Validation, Customer Creation, and Company Building. Triggers include 'we built it but no one's buying', 'should we hire salespeople yet', 'how do we find our first customers', 'we're burning cash and sales aren't scaling', 'are we in a new or existing market', 'when do we scale'. NOT for companies that have already crossed the chasm into mainstream (use Crossing the Chasm instead), not for optimizing an existing sales funnel, not for product development methodology (this is its companion, not replacement)."
 ---
 
 > **Note:** This skill is independent analysis and commentary, not a reproduction of the original text. It synthesizes the book's core ideas with modern startup practice, surfaces where frameworks are outdated or incomplete, and integrates perspectives from adjacent disciplines. For the full argument and context, read the original book.
@@ -480,7 +480,7 @@ The framework's core ideas are durable. The specific examples and some assumptio
 
 - **PLG/bottoms-up SaaS** - Customer Validation can happen via free tier metrics rather than founder-led sales calls. The iterative loop is faster.
 - **No internet-era distribution** - written before app stores, cloud marketplaces, social distribution. Channel assumptions are dated.
-- **Lean Startup superseded the process** - Eric Ries (one of Blank's first implementers at IMVU) formalized the Build-Measure-Learn loop with MVPs, making the iteration cycle faster and more explicit.
+- **Lean Startup accelerated the iteration loop** - Eric Ries (one of Blank's first implementers at IMVU) formalized the Build-Measure-Learn loop with MVPs, making the iteration cycle faster and more explicit.
 - **AI-native products** - mass consumer adoption can precede enterprise sales, breaking the earlyvangeist → mainstream sequence.
 - **Two-sided marketplaces** - chicken-and-egg dynamics don't map cleanly to the four steps.
 

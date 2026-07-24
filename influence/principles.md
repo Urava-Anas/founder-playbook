@@ -423,7 +423,7 @@ Claiming shared identity you don't actually have is one of the fastest ways to l
 
 ### Honest Caveat: Thin Evidence Base
 
-Unity was added in the 2016 second edition of *Pre-Suasion* (not the original 1984 *Influence*), and incorporated into the updated 2021 edition of *Influence*. It is the newest of the seven principles and has the **thinnest evidence base**. The original six principles rest on decades of replicated laboratory and field work. Unity rests primarily on Cialdini's theoretical argument and a smaller set of supporting studies. Treat it as a well-reasoned hypothesis with supporting evidence - not as a conclusion with the same empirical weight as Reciprocity or Social Proof.
+Unity was introduced in the 2016 book *Pre-Suasion* (not the original 1984 *Influence*), and incorporated into the updated 2021 edition of *Influence*. It is the newest of the seven principles and has the **thinnest evidence base**. The original six principles rest on decades of replicated laboratory and field work. Unity rests primarily on Cialdini's theoretical argument and a smaller set of supporting studies. Treat it as a well-reasoned hypothesis with supporting evidence - not as a conclusion with the same empirical weight as Reciprocity or Social Proof.
 
 ### Defenses
 

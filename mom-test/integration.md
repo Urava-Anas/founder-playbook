@@ -3,15 +3,16 @@
 ## Sequencing with Other Skills
 
 ```
-mom-test → 100m-offers → 100m-leads
-   ↓             ↓             ↓
- discovery   packaging     traffic
+mom-test → 100m-offers → money-models → 100m-leads
+   ↓             ↓              ↓              ↓
+ discovery   packaging    monetization      traffic
 ```
 
 | Stage | Use | Why |
 |-------|-----|-----|
 | Pre-validation | mom-test | Find a problem worth solving |
 | Validated, no offer | 100m-offers | Package the solution |
+| Validated, has offer, growth is cash-constrained | **money-models** | Sequence offers so each customer funds acquiring the next |
 | Validated, has offer | 100m-leads | Drive traffic |
 
 If your business has products but no paid customers, you're almost always missing offer work (step 2).

@@ -219,7 +219,7 @@ The chasm message: emerging new market, fed by partners and allies, each supplyi
 ### Channels NOT Suited for Chasm-Crossing
 
 - **OEMs** - Their sales force won't focus on your add-on
-- **Internet (as direct channel, in 1991)** - Need consultative, face-to-face dialogue (NOTE: this is dated; see [integration.md](integration.md#modern-relevance))
+- **Internet (as direct channel, in 1991)** - Need consultative, face-to-face dialogue (NOTE: this is dated; see [integration.md](integration.md#modern-relevance-1991--2026))
 - **Outbound retail** - Demand fulfillers, not creators
 - **Pure VARs** - Don't market, geographic patchwork, labor-backlog inefficiency
 

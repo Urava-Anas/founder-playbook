@@ -215,6 +215,21 @@
 
 ---
 
+### Traction --> Money Models
+
+| Dimension | Traction | Money Models |
+|---|---|---|
+| **Focus** | Which channel to acquire through | How fast a new customer pays back their acquisition cost |
+
+**Where they complement:**
+- Monetizing Innovation sets LTV; Money Models sets how much of that value returns in the first ~30 days — "is this customer worth acquiring" vs "can I afford to keep acquiring them without raising capital"
+- A channel can pass the LTV/CPA test and still starve a startup of cash if payback takes months and the channel needs continuous spend (paid ads) rather than one-time effort (content)
+- Expensive Phase III channels are the ones most gated by fast payback — self-funded acquisition is what makes doubling down on a winning channel sustainable without new investment
+
+**Integration rule:** Use Monetizing Innovation to confirm a channel's economics work on LTV. Use Money Models to confirm the cash arrives fast enough to fund the next acquisition before doubling down on a paid channel.
+
+---
+
 ## The Master Sequence
 
 ```
@@ -231,6 +246,7 @@ PHASE 2: LAUNCH (Post-validation, pre-mainstream)
 |-- Traction: Full Bullseye Framework, Phase II channels
 |-- $100M Leads: tactical execution within chosen channel
 |-- Monetizing Innovation: pricing (determines LTV, constrains channel choice)
+|-- Money Models: sequences offers (sets affordable CAC via 30-day payback)
 +-- Crossing the Chasm: beachhead selection (informs channel targeting)
 
 PHASE 3: SCALE (Mainstream growth)

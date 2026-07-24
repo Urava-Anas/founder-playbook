@@ -42,6 +42,7 @@ Sequence: run JTBD-style customer interviews first to understand what jobs exist
 | **Crossing the Chasm** | Both about category creation, different parts. BOS designs the category; Chasm sells it to mainstream |
 | **Monetizing Innovation** | Strategic Sequence (BOS) and pricing strategy (MI) align - both warn against cost-plus pricing |
 | **$100M Offers** | Different games. Hormozi operates inside red oceans using persuasion mechanics. BOS makes competition irrelevant via repositioning. They don't compose - pick the right tool |
+| **Money Models** | Use AFTER BOS + $100M Offers - once the new category's flagship offer converts, sequence upsells/downsells/continuity so customers fund acquiring the next one, before scaling spend via $100M Leads |
 | **$100M Leads** | Use AFTER BOS - drive traffic to a positioned category |
 | **SPIN Selling** | Use BOS to create the category, SPIN to sell into it |
 | **Obviously Awesome** | BOS reframes the GAME. OA positions WITHIN the chosen game |

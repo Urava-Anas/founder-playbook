@@ -264,6 +264,6 @@ Most companies let positioning happen accidentally. Dunford's contribution: **po
 ## Supporting Files
 
 - **[frameworks.md](frameworks.md)** - 10-step process detail (team formation, baggage, attributes/value mapping, segmentation), positioning canvas, traditional template critique
-- **[cases.md](cases.md)** - Janna Systems, Eloqua, Wave, Arm & Hammer, Sampler, Wattpad, Redgate, Bic for Her, Long Blockchain
+- **[cases.md](cases.md)** - Janna Systems, Eloqua, Wave, Arm & Hammer, Wattpad, Redgate, Bic for Her, Long Blockchain
 - **[examples.md](examples.md)** - Worked positioning canvases, sales-story templates, value-theme clustering examples, "so what?" tests
-- **[integration.md](integration.md)** - Integration and conflicts with Mom Test, Crossing the Chasm, Blue Ocean Strategy, Monetizing Innovation, $100M Offers, $100M Leads, SPIN Selling, Influence
+- **[integration.md](integration.md)** - Integration and conflicts with Mom Test, Crossing the Chasm, Blue Ocean Strategy, Monetizing Innovation, $100M Offers, $100M Money Models, $100M Leads, SPIN Selling, Influence

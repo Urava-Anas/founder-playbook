@@ -278,7 +278,9 @@ The SB7 Framework is best understood as a **messaging and copy framework**, not 
 - $100M Offers: how to package the offer itself
 - Monetizing Innovation: how to price it
 
-Framework details, deep dives, and implementation guides: see [frameworks.md](frameworks.md).
-Case studies with results: see [cases.md](cases.md).
-Templates and worksheets: see [examples.md](examples.md).
-Cross-skill integration: see [integration.md](integration.md).
+## Supporting Files
+
+- **[frameworks.md](frameworks.md)** - SB7 module deep dives, website framework deep dive, marketing roadmap deep dive, SB7 in company culture
+- **[cases.md](cases.md)** - Fitzii, Reed's Dairy, Kyle Shultz, Jenny Shih, Mavuno Church, Marie Mae Company, Tidal (failure case), CarMax, Starbucks, Apple, Dave Ramsey
+- **[examples.md](examples.md)** - BrandScript worksheet, one-liner worksheet, website wireframe, email drip templates, testimonial-collection template, messaging diagnostic
+- **[integration.md](integration.md)** - Integration and conflicts with Made to Stick, Obviously Awesome, Traction, $100M Offers, Mom Test, SPIN Selling, Monetizing Innovation, Influence

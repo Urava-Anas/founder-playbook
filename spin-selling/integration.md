@@ -60,7 +60,7 @@ The book is from 1988. Adapt to 2026 reality.
 
 ## Methodologies That Compete With SPIN
 
-The skill's claim that modern frameworks are "derivatives of SPIN" was wrong. Several CONTRADICT it on key points.
+Modern frameworks are not simply derivatives of SPIN. Several CONTRADICT it on key points.
 
 ### Challenger Sale (Dixon & Adamson, 2011)
 

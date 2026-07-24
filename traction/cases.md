@@ -6,7 +6,7 @@
 
 **Traction strategy (Noah Kagan):**
 - Targeted 600 personal finance blogs with outreach
-- Created "I want Mint" badges for bloggers to display --> 50K signups before launch
+- Created "I want Mint" badges for bloggers to display --> contributed to 20K signups before launch
 - Outreach subject line: "Can I send you $500?" (genuine offer for sponsored content)
 - Sponsored Suze Orman and small financial bloggers
 - Partnered with Motley Fool (3M readers)

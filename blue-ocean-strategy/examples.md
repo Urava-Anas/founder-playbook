@@ -199,11 +199,18 @@ List 6-8 factors the industry competes on. Score each 1-5 for your company and t
 
 ## Blank ERRC Grid
 
-| **Eliminate** (factors the industry takes for granted) | **Raise** (factors to raise well above standard) |
-|--------------------------------------------------------|--------------------------------------------------|
-|                                                        |                                                  |
-| **Reduce** (factors to reduce well below standard) | **Create** (factors the industry has never offered) |
-|----------------------------------------------------|-----------------------------------------------------|
-|                                                    |                                                     |
+```
+┌─────────────────────────────┬─────────────────────────────┐
+│ ELIMINATE                   │ RAISE                       │
+│ (factors the industry       │ (factors to raise well      │
+│  takes for granted)         │  above standard)            │
+│                             │                             │
+├─────────────────────────────┼─────────────────────────────┤
+│ REDUCE                      │ CREATE                      │
+│ (factors to reduce well     │ (factors the industry has   │
+│  below standard)            │  never offered)             │
+│                             │                             │
+└─────────────────────────────┴─────────────────────────────┘
+```
 
 Fill each quadrant with 2-4 specific factors. Eliminate and Reduce drive cost down. Raise and Create drive buyer value up. Both must happen simultaneously.

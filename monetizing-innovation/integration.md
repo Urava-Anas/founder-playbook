@@ -128,6 +128,7 @@ Tighten through revealed-preference data once available:
 |-------|------------|-----------|-----------|
 | **Mom Test** | Validate market wants this | Design product around price | |
 | **$100M Offers** | | Frame pricing & packaging | |
+| **$100M Money Models** | | Sequence the priced Good/Better/Best tiers into attraction/upsell/downsell/continuity offers so pricing self-funds acquisition | |
 | **$100M Leads** | | | Once monetization is solid, drive traffic |
 | **SPIN Selling** | | | Sell complex deals once priced/packaged |
 | **Crossing the Chasm** | Pick beachhead | Price for chasm-crossing | |
@@ -137,8 +138,9 @@ Tighten through revealed-preference data once available:
 1. **Mom Test** → Discover real customer problems
 2. **Monetizing Innovation** → Design product+price for those problems
 3. **$100M Offers** → Frame the offer irresistibly
-4. **$100M Leads** → Get qualified traffic to the offer
-5. **SPIN / Chasm** → Convert into paying customers at scale
+4. **$100M Money Models** → Sequence attraction/upsell/downsell/continuity so early revenue funds the next acquisition
+5. **$100M Leads** → Get qualified traffic to the offer
+6. **SPIN / Chasm** → Convert into paying customers at scale
 
 ---
 
@@ -186,6 +188,7 @@ When stuck, ask which skill applies to which question.
 | Should I build this? | Mom Test |
 | At what price? | Monetizing Innovation |
 | How should the offer LOOK? | $100M Offers |
+| How do I make sure a new customer pays back their acquisition cost fast enough to fund the next one? | $100M Money Models |
 | How do I get traffic? | $100M Leads |
 | How do I close enterprise deals? | SPIN Selling |
 | Why am I stuck between early adopters and mainstream? | Crossing the Chasm |

@@ -88,7 +88,7 @@ AFTER TESTING:
 Once you've identified the winning channel:
 
 1. **Double down.** Move all traction effort to this channel.
-2. **Optimize aggressively.** A/B test everything. One test per week claims to improve channel efficiency 2-3x.
+2. **Optimize aggressively.** A/B test everything. Running one test per week can improve channel efficiency 2-3x.
 3. **Build infrastructure.** If it's content marketing, hire a full-time writer. If it's sales, build the pipeline process. If it's SEO, invest in the content machine.
 4. **Monitor saturation signals:** rising CPA, flattening volume, diminishing returns on optimization.
 5. **When the channel saturates, re-run Bullseye from Step 1.** Don't panic - this is expected.
