@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="covers/banner.png" alt="Founder Playbook - 14 Business Books Distilled into AI Skills" width="100%">
+  <img src="covers/banner.png" alt="Founder Playbook - 15 Business Books Distilled into AI Skills" width="100%">
 </p>
 
 # Founder Playbook
 
-14 proven business books, distilled into structured AI skills that any LLM can use. Each skill captures the frameworks, decision trees, case studies, and templates from a single book - the stuff that actually matters, without the 300 pages of anecdotes.
+15 proven business books, distilled into structured AI skills that any LLM can use. Each skill captures the frameworks, decision trees, case studies, and templates from a single book - the stuff that actually matters, without the 300 pages of anecdotes.
 
 ```bash
 npx skills add getagentseal/founder-playbook
@@ -16,7 +16,7 @@ Built for [Claude Code](https://claude.ai/claude-code) (auto-triggers based on y
 
 | Skill | Source | Use When |
 |-------|--------|----------|
-| **[diagnose](diagnose/SKILL.md)** | **Meta-skill (routes across all 14)** | **Don't know where to start, multiple problems, "nothing is working"** |
+| **[diagnose](diagnose/SKILL.md)** | **Meta-skill (routes across all 15)** | **Don't know where to start, multiple problems, "nothing is working"** |
 | [mom-test](mom-test/SKILL.md) | The Mom Test - Rob Fitzpatrick | Customer interviews, validating ideas without leading questions |
 | [four-steps](four-steps/SKILL.md) | The Four Steps to the Epiphany - Steve Blank | Finding first customers, Customer Development, Market Type |
 | [lean-startup](lean-startup/SKILL.md) | The Lean Startup - Eric Ries | Build-Measure-Learn, MVPs, pivots, innovation accounting |
@@ -27,6 +27,7 @@ Built for [Claude Code](https://claude.ai/claude-code) (auto-triggers based on y
 | [spin-selling](spin-selling/SKILL.md) | SPIN Selling - Neil Rackham | B2B sales, complex deals, multi-stakeholder selling |
 | [100m-offers](100m-offers/SKILL.md) | $100M Offers - Alex Hormozi | Offer design, packaging, making offers irresistible |
 | [100m-leads](100m-leads/SKILL.md) | $100M Leads - Alex Hormozi | Lead generation, advertising, outbound and inbound strategy |
+| [money-models](money-models/SKILL.md) | $100M Money Models - Alex Hormozi | Offer sequencing, upsells, downsells, continuity, making customer acquisition self-funding |
 | [influence](influence/SKILL.md) | Influence - Robert Cialdini | Persuasion principles, negotiation, defense against manipulation |
 | [traction](traction/SKILL.md) | Traction - Gabriel Weinberg & Justin Mares | Growth channels, Bullseye Framework, customer acquisition |
 | [storybrand](storybrand/SKILL.md) | Building a StoryBrand - Donald Miller | Brand messaging, website copy, email campaigns, SB7 Framework |
@@ -117,12 +118,13 @@ For founders going from idea to scale:
 6.  made-to-stick         Make every message memorable and actionable
 7.  monetizing-innovation Design product + price together
 8.  100m-offers           Package the offer so it's irresistible
-9.  spin-selling          Close B2B deals
-10. crossing-the-chasm    Cross from early adopters to mainstream
-11. blue-ocean-strategy   Escape competition if commoditizing
-12. traction              Systematic channel selection (Bullseye Framework)
-13. 100m-leads            Tactical playbook for chosen channels
-14. influence             Persuasion principles throughout
+9.  money-models          Sequence offers so customers fund acquisition
+10. spin-selling          Close B2B deals
+11. crossing-the-chasm    Cross from early adopters to mainstream
+12. blue-ocean-strategy   Escape competition if commoditizing
+13. traction              Systematic channel selection (Bullseye Framework)
+14. 100m-leads            Tactical playbook for chosen channels
+15. influence             Persuasion principles throughout
 ```
 
 ## What Makes These Different
@@ -164,7 +166,7 @@ With these skills: Claude loads Mom Test (those 30 people were probably being po
   <tr>
     <td align="center"><img src="covers/building-a-storybrand.jpg" width="120"><br><sub>Building a StoryBrand<br>Donald Miller</sub></td>
     <td align="center"><img src="covers/made-to-stick.jpg" width="120"><br><sub>Made to Stick<br>Chip & Dan Heath</sub></td>
-    <td></td>
+    <td align="center"><img src="covers/100m-money-models.jpg" width="120"><br><sub>$100M Money Models<br>Alex Hormozi</sub></td>
     <td></td>
   </tr>
 </table>
@@ -185,6 +187,7 @@ These skills are study aids and critical commentary - they help you apply what t
 | SPIN Selling | Neil Rackham | [Amazon](https://www.amazon.com/SPIN-Selling-Neil-Rackham/dp/0070511136) |
 | $100M Offers | Alex Hormozi | [Amazon](https://www.amazon.com/100M-Offers-People-Refuse-ebook/dp/B099QVG1H8) |
 | $100M Leads | Alex Hormozi | [Amazon](https://www.amazon.com/100M-Leads-Strangers-Want-ebook/dp/B0CFDR4VT8) |
+| $100M Money Models | Alex Hormozi | [Amazon](https://www.amazon.com/100M-Money-Models-Make-Acquisition-com/dp/1963349156) |
 | Influence | Robert Cialdini | [Amazon](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/0062937650) |
 | Traction | Gabriel Weinberg & Justin Mares | [Amazon](https://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer/dp/1591848369) |
 | Building a StoryBrand | Donald Miller | [Amazon](https://www.amazon.com/Building-StoryBrand-Clarify-Message-Customers/dp/0718033329) |

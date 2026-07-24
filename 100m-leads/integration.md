@@ -3,12 +3,12 @@
 ## The Hormozi Sequence
 
 ```
-mom-test → 100m-offers → 100m-leads
-   ↓             ↓             ↓
- discovery   packaging     traffic
+mom-test → 100m-offers → money-models → 100m-leads
+   ↓             ↓              ↓             ↓
+ discovery   packaging     monetization     traffic
 ```
 
-100m-leads is the LAST step. It generates traffic to a validated, packaged offer.
+100m-leads is the LAST step. It generates traffic to a validated, packaged, sequenced offer.
 
 ## Skill Combinations
 
@@ -38,6 +38,18 @@ Don't generate leads for a bad offer. Sequence:
 | Few leads, high close rate | Volume problem | Scale leads (this skill) |
 | Lots of leads + many sales but unprofitable | Unit economics | Fix LTGP or CAC |
 | Few leads, few sales | Multiple problems | Fix offer first, then leads |
+
+### 100m-leads + money-models
+
+Your money model sets how much you can afford to spend per lead. The more cash a new customer generates in the first 30 days (via upsells, downsells, continuity), the more channels become profitable - channels that look "too expensive" on a single-offer economics often work once the money model is fixed.
+
+| Symptom | Diagnosis | Fix |
+|---------|-----------|-----|
+| The channels that reach our best customers are "too expensive" | Money model, not channel choice | Fix money model (money-models), then revisit channels |
+| CAC is fine on paper but cash is tight before the next sale | Front-loaded spend, no immediate monetization | Add an upsell/downsell in the first 30 days (money-models) |
+| Scaling a channel makes growth slower, not faster | Acquisition isn't self-funding | Fix money model first, then scale traffic |
+
+Fix the money model before scaling paid traffic. Otherwise 100m-leads just spends faster into an offer sequence that can't fund itself.
 
 ### 100m-leads + crossing-the-chasm
 
@@ -169,6 +181,7 @@ In these contexts, the mix shifts heavily toward warm outreach, content, and con
 | Don't know what to build | mom-test |
 | Have product, can't articulate value | obviously-awesome |
 | Built offer, no one buys | 100m-offers |
+| Leads convert but each customer loses money | money-models |
 | Pricing question | monetizing-innovation |
 | Adoption stalled in mainstream | crossing-the-chasm |
 | New category creation | blue-ocean-strategy |
@@ -189,6 +202,8 @@ mom-test (validate problem)
 obviously-awesome (position product)
    ↓
 100m-offers (package the offer)
+   ↓
+money-models (sequence the offer, make acquisition self-funding)
    ↓
 100m-leads (THIS - drive traffic)
    ↓

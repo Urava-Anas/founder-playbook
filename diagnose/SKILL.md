@@ -1,6 +1,6 @@
 ---
 name: diagnose
-description: "Startup diagnostic router. Use FIRST when a founder doesn't know where to start, has multiple overlapping problems, or asks a vague question like 'what's wrong with my startup', 'why aren't people buying', 'what should I focus on', 'where do I even begin', 'nothing is working'. Routes to the right framework from the 14 available skills — or tells you when no framework fits and you just need to go talk to people. This is the entry point. Use it before reaching for any specific skill."
+description: "Startup diagnostic router. Use FIRST when a founder doesn't know where to start, has multiple overlapping problems, or asks a vague question like 'what's wrong with my startup', 'why aren't people buying', 'what should I focus on', 'where do I even begin', 'nothing is working'. Routes to the right framework from the 15 available skills — or tells you when no framework fits and you just need to go talk to people. This is the entry point. Use it before reaching for any specific skill."
 ---
 
 > **Note:** This skill is independent analysis and commentary, not a reproduction of any original text. It synthesizes frameworks from multiple books with modern startup practice and routes founders to the right tool for their situation.
@@ -101,6 +101,7 @@ Are potential customers discovering your product?
 |-- NO → You have a DISTRIBUTION problem.
 |   → Use traction to systematically test channels.
 |   → Use 100m-leads for tactical execution in chosen channels.
+|   → Use money-models if you can't AFFORD the channels that work (make acquisition self-funding first).
 ```
 
 ### Step 4: Are they buying?
@@ -122,6 +123,8 @@ People find you, understand you, but don't buy. Why?
 |-- Signing up but churning → PRODUCT problem.
 |   → Use lean-startup to measure and iterate.
 |   → Use mom-test to understand why they leave.
+|-- Buying once but never again / LTV too low to fund growth → MONEY MODEL problem.
+|   → Use money-models (upsells, downsells, continuity).
 ```
 
 ### Step 5: Is the sales process working?
@@ -179,6 +182,8 @@ Signs you should stop using frameworks and just go observe reality:
 | "We have early users but can't grow past them" | crossing-the-chasm (only if 10+ paying customers) | traction |
 | "Should we pivot?" | lean-startup | four-steps |
 | "Everything feels broken" | This diagnostic | Then one skill at a time |
+| "Customers buy once and disappear" | money-models | 100m-offers |
+| "Ads work but we can't afford to scale them" | money-models | 100m-leads |
 
 ---
 
@@ -191,7 +196,7 @@ Signs you should stop using frameworks and just go observe reality:
 
 ### What It Doesn't Do
 - It doesn't replace judgment. The diagnostic narrows the options. You still decide.
-- It assumes the 14 available skills cover your problem. Some problems (hiring, fundraising, legal, operations) aren't covered here.
+- It assumes the 15 available skills cover your problem. Some problems (hiring, fundraising, legal, operations) aren't covered here.
 - It can't diagnose problems you're not honest about. If you skip the hard questions or answer with what you wish were true, the routing breaks.
 - It oversimplifies by design. Real startups have 3 problems at once. This makes you pick one to fix first, which is usually correct but sometimes the problems are entangled and need to be solved together.
 

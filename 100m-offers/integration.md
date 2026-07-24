@@ -3,15 +3,16 @@
 ## The Hormozi Sequence
 
 ```
-mom-test → 100m-offers → 100m-leads
-   ↓             ↓             ↓
- discovery   packaging     traffic
+mom-test → 100m-offers → money-models → 100m-leads
+   ↓             ↓              ↓             ↓
+ discovery   packaging     monetization     traffic
 ```
 
 | Skill | When to Use |
 |-------|-------------|
 | **mom-test** | BEFORE - validate market and extract dream outcome language |
 | **100m-offers** (this) | Build the offer they can't refuse |
+| **money-models** | AFTER - sequence this offer with upsells, downsells, and continuity so customers fund acquisition |
 | **100m-leads** | AFTER - get traffic to the offer |
 
 If a business has products but no paid customers, it's almost always missing step 2 (the offer).
@@ -31,6 +32,20 @@ Mom Test interviews provide the raw material for the offer:
 | Emotional moments in interviews | Hook/marketing copy |
 
 Without mom-test, the offer is built on assumptions. With it, the offer literally uses the words of the people you're selling to.
+
+### 100m-offers + money-models
+
+The Grand Slam Offer is the unit; money-models is the sequence of units. 100m-offers makes one offer convert. money-models decides which offer comes first (attraction), what follows immediately after the yes (upsell), what catches the no (downsell), and what makes revenue recurring (continuity).
+
+| Question | Skill |
+|----------|-------|
+| Does this one offer convert? | 100m-offers |
+| What offer comes first to attract customers cheaply? | money-models |
+| What do we offer immediately after the yes? | money-models |
+| What catches the people who said no? | money-models |
+| What makes this revenue recurring instead of one-time? | money-models |
+
+Build the Grand Slam Offer first with 100m-offers. Then use money-models to decide where it sits in the sequence and what surrounds it.
 
 ### 100m-offers + 100m-leads
 
@@ -141,6 +156,7 @@ The offer-construction process is the same; the inputs differ by segment.
 
 - **Pure positioning problem:** Use obviously-awesome
 - **Channel/marketing channel choice:** Use 100m-leads
+- **Customers convert but cash flow can't fund growth:** Use money-models
 - **Pricing model question (subscription vs one-time):** Use monetizing-innovation
 - **Sales conversation structure:** Use spin-selling
 - **Adoption-stage strategy:** Use crossing-the-chasm
@@ -153,7 +169,7 @@ Discovery layer:    mom-test → spin-selling
                        ↓
 Strategy layer:     blue-ocean / crossing-the-chasm / obviously-awesome / monetizing-innovation
                        ↓
-Tactical layer:     100m-offers (THIS) → 100m-leads
+Tactical layer:     100m-offers (THIS) → money-models → 100m-leads
                        ↓
 Influence layer:    influence (compliance principles)
 ```
