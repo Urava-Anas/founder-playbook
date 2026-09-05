@@ -48,3 +48,7 @@ The current v1 chain is validated for structural consistency against the source 
 ## Source preservation rule
 
 Files outside `urava/` remain upstream/reference material unless a later, explicit Urava reconciliation decision says otherwise. Prefer new overlays/adapters to edits of source skills so upstream can be updated cleanly.
+
+## Current implementation checkpoint
+
+This README is part of the `urava/founder-intelligence-v1` branch. Use the branch/PR exact head as the implementation checkpoint rather than copying a SHA into this document, so routine commits do not create stale self-referential metadata.
