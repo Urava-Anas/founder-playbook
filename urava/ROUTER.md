@@ -10,40 +10,39 @@ Retrieve the smallest useful intelligence packet for the current problem. Do not
 2. Apply `AUTHORITY.md`.
 3. If the problem category is unclear, consult upstream `diagnose/SKILL.md` through `adapters/diagnose.md`.
 4. Select **one primary module**.
-5. If that module has an Urava adapter, load the adapter with the upstream `SKILL.md`; the adapter constrains application but does not replace the source module.
-6. Add **one secondary module only if it provides a distinct dependency**.
-7. Load `frameworks.md`, `examples.md`, `cases.md`, or `integration.md` only when the task needs that depth.
-8. Produce one concrete action or decision packet.
-9. Record outcome/evidence using `EVIDENCE.md`.
+5. Add **one secondary module only if it provides a distinct dependency**.
+6. Load the Urava adapter for the selected module, then upstream `SKILL.md`. Load `frameworks.md`, `examples.md`, `cases.md`, or `integration.md` only when the task needs that depth.
+7. Produce one concrete action or decision packet.
+8. Record outcome/evidence using `EVIDENCE.md`.
 
 ## Commercial chain shortcut
 
-For commercial work, first locate the current bottleneck in `COMMERCIAL_CHAIN.md`:
+When the objective is commercial and the bottleneck is known, use `COMMERCIAL_CHAIN.md` as a gated sequence:
 
-`Mom Test → 100M Offers + Monetizing Innovation → Traction + 100M Leads → SPIN Selling → StoryBrand + Made to Stick`
+`Mom Test → 100M Offers + Monetizing Innovation → Traction + 100M Leads → SPIN Selling → StoryBrand + Made to Stick`.
 
-This is a gated handoff sequence, not permission to load every module. A failed stage routes backward to the missing evidence.
+This is **not** a requirement to run all stages. Route directly to the failing stage; if evidence shows an earlier dependency is weak, route backward instead of adding more frameworks.
 
 ## Routing table
 
-| Problem | Primary | Optional secondary | Urava adapter |
-|---|---|---|---|
-| Unknown founder/commercial problem | diagnose | none until diagnosed | `adapters/diagnose.md` |
-| Customer discovery / fake-positive feedback | mom-test | four-steps | `adapters/mom-test.md` |
-| Business-model discovery / first customers | four-steps | mom-test | none yet |
-| MVP / experiment / pivot | lean-startup | mom-test | none yet |
-| Positioning / category / best-fit customer | obviously-awesome | crossing-the-chasm | none yet |
-| Message clarity / website story | storybrand | made-to-stick | `adapters/storybrand.md` |
-| Memorable pitch / communication | made-to-stick | storybrand | `adapters/made-to-stick.md` |
-| Pricing / willingness to pay | monetizing-innovation | 100m-offers | `adapters/monetizing-innovation.md` |
-| Offer packaging | 100m-offers | monetizing-innovation | `adapters/100m-offers.md` |
-| Unit economics / self-funded acquisition | money-models | 100m-offers | none yet |
-| Channel selection | traction | 100m-leads | `adapters/traction.md` |
-| Lead generation tactics | 100m-leads | traction | `adapters/100m-leads.md` |
-| B2B sales calls / complex deals | spin-selling | influence | `adapters/spin-selling.md` |
-| Ethical persuasion / decision psychology | influence | spin-selling | none yet |
-| Early adopters → mainstream | crossing-the-chasm | obviously-awesome | none yet |
-| Commoditized market / value innovation | blue-ocean-strategy | obviously-awesome | none yet |
+| Problem | Primary | Optional secondary |
+|---|---|---|
+| Unknown founder/commercial problem | diagnose | none until diagnosed |
+| Customer discovery / fake-positive feedback | mom-test | four-steps |
+| Business-model discovery / first customers | four-steps | mom-test |
+| MVP / experiment / pivot | lean-startup | mom-test |
+| Positioning / category / best-fit customer | obviously-awesome | crossing-the-chasm |
+| Message clarity / website story | storybrand | made-to-stick |
+| Memorable pitch / communication | made-to-stick | storybrand |
+| Pricing / willingness to pay | monetizing-innovation | 100m-offers |
+| Offer packaging | 100m-offers | monetizing-innovation |
+| Unit economics / self-funded acquisition | money-models | 100m-offers |
+| Channel selection | traction | 100m-leads |
+| Lead generation tactics | 100m-leads | traction |
+| B2B sales calls / complex deals | spin-selling | influence |
+| Ethical persuasion / decision psychology | influence | spin-selling |
+| Early adopters → mainstream | crossing-the-chasm | obviously-awesome |
+| Commoditized market / value innovation | blue-ocean-strategy | obviously-awesome |
 
 ## Stop conditions
 
@@ -60,6 +59,6 @@ In those cases route back to the relevant Developer House skill or Founder decis
 
 Default retrieval budget:
 
-`Urava adapter → module SKILL.md → only one deeper supporting file if required`.
+`Urava adapter → source SKILL.md → only one deeper supporting file if required`.
 
 Integration files are for cross-framework conflicts/sequencing, not routine use. Case files are examples, not authority.
