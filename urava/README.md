@@ -21,11 +21,25 @@ The runtime pattern is:
 
 - `AUTHORITY.md` — precedence, safety, allowed/forbidden use.
 - `ROUTER.md` — selective retrieval and one-primary-module routing.
+- `COMMERCIAL_CHAIN.md` — gated commercial handoff from discovery through messaging.
 - `SKILL_MAP.md` — mapping from playbook modules into Developer House skills and Urava systems.
 - `EVIDENCE.md` — evidence/confidence contract for validating imported advice against Urava reality.
 - `INGESTION.md` — source ingestion and validation pipeline.
 - `adapters/diagnose.md` — Urava-specific wrapper for the upstream diagnostic meta-skill.
 - `adapters/mom-test.md` — Urava-specific wrapper for customer discovery.
+- `adapters/100m-offers.md` — validated offer/value design with integrity and delivery-capacity guards.
+- `adapters/monetizing-innovation.md` — WTP, packaging, monetization and pricing-evidence wrapper.
+- `adapters/traction.md` — bounded channel selection/testing with evidence and spend gates.
+- `adapters/100m-leads.md` — focused lead-system execution with qualification/economics/capacity controls.
+- `adapters/spin-selling.md` — complex B2B need development and Advance-focused selling.
+- `adapters/storybrand.md` — truthful message architecture and CTA/proof guardrails.
+- `adapters/made-to-stick.md` — selective SUCCESs communication diagnostic after truth/clarity.
+
+## Commercial chain
+
+`Mom Test → 100M Offers + Monetizing Innovation → Traction + 100M Leads → SPIN Selling → StoryBrand + Made to Stick`
+
+This is a gated sequence. The Dispatcher loads only the current bottleneck stage; failed evidence routes backward rather than automatically continuing forward.
 
 ## Source preservation rule
 
