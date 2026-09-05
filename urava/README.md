@@ -41,6 +41,10 @@ The runtime pattern is:
 
 This is a gated sequence. The Dispatcher loads only the current bottleneck stage; failed evidence routes backward rather than automatically continuing forward.
 
+## Validation scope
+
+The current v1 chain is validated for structural consistency against the source modules and Urava governance. It is **not yet high-confidence Urava commercial truth**. Confidence rises only when the adapters are exercised against real discovery, offer, pricing, channel, lead, sales and messaging outcomes and those outcomes are recorded through `EVIDENCE.md`.
+
 ## Source preservation rule
 
 Files outside `urava/` remain upstream/reference material unless a later, explicit Urava reconciliation decision says otherwise. Prefer new overlays/adapters to edits of source skills so upstream can be updated cleanly.
